@@ -15,7 +15,7 @@
                                     "properties": {}
                                 },
                                 "workflowVariable": "",
-                                "label": "Utilisations qui seront faites des données demandées",
+                                "label": "Utilisations",
                                 "id": "utilisations",
                                 "placeholder": "",
                                 "rows": "5",
